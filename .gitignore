@@ -1,0 +1,25 @@
+venv
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+
+# DVC/MLflow
+mlruns/
+.cache/
+.dvc/
+
+# OS
+.DS_Store
+Thumbs.db
